@@ -1,3 +1,4 @@
+
 # Simple Tic-Tac-Toe Game with Java Swing, Login, and Statistics
 
 ## Student Information
@@ -97,6 +98,9 @@ Table: `players`
 
 ## Screenshots
 <img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/8c64d0cb-61a8-4ca0-83dc-98949322db9c" />
+<img width="1920" height="1080" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/d053eb47-abb1-4a9a-893a-40ef8f10a0e5" />
+<img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/66a2474f-894d-427c-b939-771709841827" />
+<img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/176dd8d1-3680-4f5b-81de-7e4b78525a0d" />
 
 ## GitHub Repository
 *(https://github.com/clanido/TICTACTOE)*
