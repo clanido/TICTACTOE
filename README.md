@@ -96,8 +96,7 @@ Table: `players`
 - `TopScorersFrame` JTable population from the database.
 
 ## Screenshots
-*(Add screenshots of the Login Window, Game Window, and Top 5 Scorers Window here
-after running the program.)*
+<img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/8c64d0cb-61a8-4ca0-83dc-98949322db9c" />
 
 ## GitHub Repository
 *(Add your repository link here.)*
